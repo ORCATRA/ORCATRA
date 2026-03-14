@@ -1,1 +1,1 @@
-hello how do i makea readme thing.. okay thanks !!!!
+![](https://files.catbox.moe/xa409c.jpg)
